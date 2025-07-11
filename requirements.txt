@@ -1,0 +1,5 @@
+transformers
+torch
+sentencepiece
+pyttsx3
+PyMuPDF

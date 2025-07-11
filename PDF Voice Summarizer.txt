@@ -1,0 +1,14 @@
+# 🧠 PDF Voice Summarizer (Python Mini Product)
+
+A GUI-based tool that extracts text from a PDF, summarizes it using AI, and reads it aloud with Text-to-Speech (TTS).
+
+## ✨ Features
+- Upload any PDF
+- AI Summary (uses HuggingFace T5)
+- Voice playback of summary (pyttsx3)
+- Simple GUI (Tkinter)
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+python gui.py
